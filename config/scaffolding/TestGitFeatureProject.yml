@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGitFeatureProject
+  gitServerName: SanthoshKToken7D
+  gitUrl: https://github.com/santhu736852/TestGitFeatureProject
+  gitUsername: santhu736852
+  gitBranch: main
